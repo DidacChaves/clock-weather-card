@@ -166,7 +166,7 @@ export class ClockWeatherCard extends LitElement {
       >
         ${this.config.title
         ? html`
-          <div class="card-header">
+          <div class="card-header"> 
             ${this.config.title}
           </div>`
         : ''}
