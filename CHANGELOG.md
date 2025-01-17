@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.10.0](https://github.com/DidacChaves/clock-weather-card/compare/v2.9.0...v2.10.0) (2025-01-17)
+
+
+### Features
+
+* **master:** Add ability to show a weather summary section ([545bbc7](https://github.com/DidacChaves/clock-weather-card/commit/545bbc7fe9e7c5ef47e25cd7ce632ff1a680e7fc))
+
 ## [2.9.0](https://github.com/DidacChaves/clock-weather-card/compare/v2.8.8...v2.9.0) (2025-01-17)
 
 
