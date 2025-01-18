@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.10.2](https://github.com/DidacChaves/clock-weather-card/compare/v2.10.1...v2.10.2) (2025-01-18)
+
+
+### Bug Fixes
+
+* **master:** refactor and clean code ([fcc87f3](https://github.com/DidacChaves/clock-weather-card/commit/fcc87f34f38eb48beb53cf32d9be231db7624660))
+
 ## [2.10.1](https://github.com/DidacChaves/clock-weather-card/compare/v2.10.0...v2.10.1) (2025-01-18)
 
 
